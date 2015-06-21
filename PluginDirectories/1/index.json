@@ -15,6 +15,22 @@
         },
         {
             "categories": [
+                "Utilities"
+            ],
+            "creator_name": "Sven Oos",
+            "creator_url": "https://github.com/svoos",
+            "description": "Create tasks in 2Do",
+            "displayName": "2Do",
+            "examples": [
+                "add task Pay bills",
+                "2do Check emails #office #home",
+                "2do Refactor code > Plugin #important, not urgent"
+            ],
+            "name": "2do",
+            "zip_url": "2do.zip"
+        },
+        {
+            "categories": [
                 "Media"
             ],
             "description": "Search 500px\u2122 (500px)",
@@ -96,6 +112,27 @@
             ],
             "name": "aliexpress",
             "zip_url": "aliexpress.zip"
+        },
+        {
+            "categories": [
+                "Search"
+            ],
+            "creator_name": "T0mab",
+            "creator_url": "https://github.com/t0mab",
+            "description": "Searches Allocine",
+            "description_fr": "Rechercher sur Allocine",
+            "displayName": "Allocine search",
+            "displayName_fr": "Recherche Allocine",
+            "examples": [
+                "allocine Braindead",
+                "allocine Ken Loach "
+            ],
+            "examples_fr": [
+                "allocine La Haine",
+                "allocine Jeunet"
+            ],
+            "name": "allocine",
+            "zip_url": "allocine.zip"
         },
         {
             "categories": [
@@ -231,7 +268,7 @@
             "categories": [
                 "Information"
             ],
-            "description": "Show latest Bitcoin price",
+            "description": "Show latest Bitcoin price from bitcoinaverage.com",
             "description_de": "Zeigt den aktuellen Bitcoin Preis an.",
             "description_fr": "Affiche les derniers prix du Bitcoin",
             "displayName": "Bitcoin Price",
@@ -303,6 +340,21 @@
             ],
             "name": "bye404",
             "zip_url": "bye404.zip"
+        },
+        {
+            "categories": [
+                "Utilities"
+            ],
+            "creator_name": "lmorel3",
+            "creator_url": "lmorel3.fr",
+            "description": "The easiest way",
+            "displayName": "Calculator",
+            "examples": [
+                "cal 2+3",
+                "cal (4*5)+2"
+            ],
+            "name": "calculator",
+            "zip_url": "calculator.zip"
         },
         {
             "categories": [
@@ -459,6 +511,45 @@
         },
         {
             "categories": [
+                "Search"
+            ],
+            "creator_name": "T0mab",
+            "creator_url": "https://github.com/t0mab",
+            "description": "Track a colissimo parcel",
+            "description_de": "Colissimo paket verfolgen",
+            "description_es": "Seguimiento de un colissimo paquete",
+            "description_fr": "Suivre un colissimo",
+            "description_it": "Monitoraggio dei pacchi colissimo",
+            "description_nl": "Colissimo pakket volgen",
+            "displayName": "Colissimo Parcel Tracker",
+            "displayName_de": "Colissimo paket verfolgen",
+            "displayName_es": "Seguimiento colissimo",
+            "displayName_fr": "Suivi colissimo",
+            "displayName_it": "Monitoraggio colissimo",
+            "displayName_nl": "Colissimo volgen",
+            "examples": [
+                "colissimo <parcelnumber>"
+            ],
+            "examples_de": [
+                "colissimo <packetnummer>"
+            ],
+            "examples_es": [
+                "colissimo <n\u00famerodepaquete>"
+            ],
+            "examples_fr": [
+                "colissimo <num\u00e9rodecolis>"
+            ],
+            "examples_it": [
+                "colissimo <numerodicollo>"
+            ],
+            "examples_nl": [
+                "colissimo <pakketnummer>"
+            ],
+            "name": "colisimo",
+            "zip_url": "colisimo.zip"
+        },
+        {
+            "categories": [
                 "Design",
                 "Developer"
             ],
@@ -530,7 +621,8 @@
         {
             "categories": [
                 "Utilities",
-                "Search"
+                "Search",
+                "Meta"
             ],
             "description": "Add your own shortcuts to search any site on the web.",
             "displayName": "Custom Search",
@@ -611,6 +703,21 @@
         },
         {
             "categories": [
+                "Information"
+            ],
+            "creator_name": "Simon Michel",
+            "creator_url": "https://plus.google.com/+SimonMichel",
+            "description": "Verfolgt dein DHL Paket.",
+            "displayName": "DHL Sendungsverfolgung",
+            "examples": [
+                "dhl <paketnummer>",
+                "dhl 92478293748923"
+            ],
+            "name": "dhltracking",
+            "zip_url": "dhltracking.zip"
+        },
+        {
+            "categories": [
                 "Language"
             ],
             "creator_name": "Toni Hoffmann (xremix)",
@@ -627,6 +734,20 @@
                 "de"
             ],
             "zip_url": "dictcc.zip"
+        },
+        {
+            "categories": [
+                "Utilities",
+                "Developer"
+            ],
+            "description": "Search dns by Google Apps Toolbox",
+            "displayName": "dig",
+            "examples": [
+                "dig www.google.com",
+                "dig www.yahoo.com"
+            ],
+            "name": "dig",
+            "zip_url": "dig.zip"
         },
         {
             "categories": [
@@ -660,6 +781,23 @@
             ],
             "name": "discogs",
             "zip_url": "discogs.zip"
+        },
+        {
+            "categories": [
+                "Search",
+                "Language"
+            ],
+            "displayName": "Dizionario",
+            "examples": [
+                "sinonimi casa",
+                "significato televisione",
+                "d computer"
+            ],
+            "name": "dizionario",
+            "preferred_locales": [
+                "it"
+            ],
+            "zip_url": "dizionario.zip"
         },
         {
             "categories": [
@@ -797,6 +935,21 @@
         },
         {
             "categories": [
+                "Information"
+            ],
+            "creator_name": "Cody Balos",
+            "creator_url": "https://github.com/cojomojo",
+            "description": "Gets latest sports scores from espn.com",
+            "displayName": "ESPN Scores",
+            "examples": [
+                "espn nhl",
+                "espn nfl"
+            ],
+            "name": "espn",
+            "zip_url": "espn.zip"
+        },
+        {
+            "categories": [
                 "Utilities"
             ],
             "creator_name": "Richard van der Dys",
@@ -865,6 +1018,21 @@
         },
         {
             "categories": [
+                "Search"
+            ],
+            "creator_name": "Simon Michel",
+            "creator_url": "https://plus.google.com/+SimonMichel",
+            "description": "Track your order.",
+            "displayName": "FedEx",
+            "examples": [
+                "fedex <tracking number>",
+                "fedex 449044304137821"
+            ],
+            "name": "fedex",
+            "zip_url": "fedex.zip"
+        },
+        {
+            "categories": [
                 "Search",
                 "Meta"
             ],
@@ -895,6 +1063,21 @@
             ],
             "name": "flickr",
             "zip_url": "flickr.zip"
+        },
+        {
+            "categories": [
+                "Utilities"
+            ],
+            "creator_name": "Yatharth Agarwal",
+            "creator_url": "https://github.com/YatharthROCK/Flashlight",
+            "description": "Toggles the behaviour of your function keys",
+            "displayName": "Function Key Toggle",
+            "examples": [
+                "fntoggle",
+                "toggle function keys"
+            ],
+            "name": "fntoggle",
+            "zip_url": "fntoggle.zip"
         },
         {
             "categories": [
@@ -1031,6 +1214,35 @@
             ],
             "name": "github",
             "zip_url": "github.zip"
+        },
+        {
+            "categories": [
+                "Utilities",
+                "Developer"
+            ],
+            "description": "Search Google Trends",
+            "displayName": "GoogleTrends",
+            "examples": [
+                "trends vim,emacs",
+                "trend python,go"
+            ],
+            "name": "google-trends",
+            "zip_url": "google-trends.zip"
+        },
+        {
+            "categories": [
+                "Search"
+            ],
+            "creator_name": "Simon Michel",
+            "creator_url": "https://plus.google.com/+SimonMichel",
+            "description": "Search files on Google Drive",
+            "displayName": "Google Drive",
+            "examples": [
+                "drive <search term>",
+                "drive movies"
+            ],
+            "name": "googledrive",
+            "zip_url": "googledrive.zip"
         },
         {
             "categories": [
@@ -1183,6 +1395,22 @@
         },
         {
             "categories": [
+                "Utilities",
+                "System"
+            ],
+            "creator_name": "Spencer Clem",
+            "creator_url": "https://github.com/stclem93",
+            "description": "Quickly show/hide hidden files and folders in OSX",
+            "displayName": "Show hidden files",
+            "examples": [
+                "show hidden files",
+                "hide hidden files"
+            ],
+            "name": "hiddenfiles",
+            "zip_url": "hiddenfiles.zip"
+        },
+        {
+            "categories": [
                 "Utilities"
             ],
             "description": "Temporarily hide all the icons on your desktop.",
@@ -1209,6 +1437,37 @@
             ],
             "name": "hoogle",
             "zip_url": "hoogle.zip"
+        },
+        {
+            "categories": [
+                "Search",
+                "Media"
+            ],
+            "creator_name": "Matthew Dias",
+            "creator_url": "http://www.matthewdias.me",
+            "description": "Search hummingbird.me",
+            "displayName": "Search hummingbird.me",
+            "examples": [
+                "hummingbird evangelion",
+                "hb steins"
+            ],
+            "name": "hummingbird",
+            "zip_url": "hummingbird.zip"
+        },
+        {
+            "categories": [
+                "Search"
+            ],
+            "creator_name": "Simon Michel",
+            "creator_url": "https://plus.google.com/+SimonMichel",
+            "description": "Preise vergleichen auf idealo.de",
+            "displayName": "idealo Preisvergleich",
+            "examples": [
+                "idealo <suchbegriff>",
+                "idealo iphone 6"
+            ],
+            "name": "idealo",
+            "zip_url": "idealo.zip"
         },
         {
             "categories": [
@@ -1355,6 +1614,21 @@
         },
         {
             "categories": [
+                "Developer"
+            ],
+            "description": "This plugin searches an Atlassian Jira instance",
+            "displayName": "Search Jira",
+            "examples": [
+                "jira PROJ-123",
+                "jira proj: something",
+                "jira something in proj",
+                "jira something and other things"
+            ],
+            "name": "jira",
+            "zip_url": "jira.zip"
+        },
+        {
+            "categories": [
                 "Language"
             ],
             "description": "Search the Japanese dictionary and translator Jisho",
@@ -1449,6 +1723,19 @@
             ],
             "name": "largetext",
             "zip_url": "largetext.zip"
+        },
+        {
+            "categories": [
+                "Search"
+            ],
+            "description": "Search Last.fm from Spotlight.",
+            "displayName": "Last.fm Search",
+            "examples": [
+                "lastfm flashlight",
+                "lfm flashlight"
+            ],
+            "name": "lastfm",
+            "zip_url": "lastfm.zip"
         },
         {
             "categories": [
@@ -1667,6 +1954,22 @@
             ],
             "name": "npm",
             "zip_url": "npm.zip"
+        },
+        {
+            "categories": [
+                "Search",
+                "Media"
+            ],
+            "creator_name": "Matthew Dias",
+            "creator_url": "http://www.matthewdias.me",
+            "description": "Search nyaa.se for anime torrents",
+            "displayName": "Search nyaa.se",
+            "examples": [
+                "search nyaa for cowboy bebop",
+                "nyaa samurai champloo"
+            ],
+            "name": "nyaa",
+            "zip_url": "nyaa.zip"
         },
         {
             "categories": [
@@ -2395,6 +2698,22 @@
             "categories": [
                 "Utilities"
             ],
+            "creator_name": "Sven Oos",
+            "creator_url": "https://github.com/svoos",
+            "description": "Create a new task in Tyme",
+            "displayName": "Tyme",
+            "examples": [
+                "tyme Pay bills",
+                "tyme check emails #office",
+                "tyme Refactor code @My Project"
+            ],
+            "name": "tyme",
+            "zip_url": "tyme.zip"
+        },
+        {
+            "categories": [
+                "Utilities"
+            ],
             "creator_name": "Thomas Eschemann",
             "creator_url": "http://eschemann.fr",
             "description": "Search Unicode characters and emoji. Click to copy.",
@@ -2476,10 +2795,17 @@
                 "Featured"
             ],
             "description": "Updated weather plugin with both days and hour-by-hour forcast.",
+            "description_fr": "Affiche les informations m\u00e9t\u00e9ologiques",
             "displayName": "Weather",
+            "displayName_fr": "M\u00e9t\u00e9o",
             "examples": [
                 "weather brooklyn",
                 "how's the weather in san francisco?"
+            ],
+            "examples_fr": [
+                "temps paris",
+                "Quel est le climat \u00e0 Dunkerque ?",
+                "M\u00e9t\u00e9o pour lille"
             ],
             "name": "weather",
             "zip_url": "weather.zip"
@@ -2651,6 +2977,37 @@
         },
         {
             "categories": [
+                "Developer"
+            ],
+            "creator_name": "Esteban (TCattd)",
+            "creator_url": "http://www.attitude.cl",
+            "description": "Search WordPress's functions (using wpseek).",
+            "displayName": "WordPress functions",
+            "examples": [
+                "wp the_content"
+            ],
+            "name": "wordpress",
+            "zip_url": "wordpress.zip"
+        },
+        {
+            "categories": [
+                "Utilities",
+                "Language"
+            ],
+            "creator_name": "Sergio Padrino",
+            "creator_url": "http://sergiou87.github.io",
+            "description": "Search words in WordReference.com (wr)",
+            "displayName": "WordReference.com",
+            "examples": [
+                "wr enes hello",
+                "wr esen hola",
+                "wr enzh dog"
+            ],
+            "name": "wordreference",
+            "zip_url": "wordreference.zip"
+        },
+        {
+            "categories": [
                 "Utilities"
             ],
             "creator_name": "Tobias Orterer",
@@ -2812,6 +3169,23 @@
             ],
             "name": "youtube",
             "zip_url": "youtube.zip"
+        },
+        {
+            "categories": [
+                "Search"
+            ],
+            "creator_name": "Simon Michel",
+            "creator_url": "https://plus.google.com/+SimonMichel",
+            "description": "Find your style at Zalando",
+            "displayName": "Zalando",
+            "examples": [
+                "zalando puma shoe",
+                "zalando diesel jeans",
+                "zalando BOSS short sale"
+            ],
+            "name": "zalando",
+            "openPreferencesOnInstall": true,
+            "zip_url": "zalando.zip"
         },
         {
             "categories": [
